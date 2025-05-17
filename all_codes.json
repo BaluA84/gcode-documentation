@@ -5,7 +5,7 @@
   },
   "ABORT": [
     {
-      "brief": "This command terminates the manual probing tool.",
+      "brief": "Dieser Befehl beendet das manuelle Probewerkzeug.",
       "codes": [
         "ABORT"
       ],
@@ -13,13 +13,13 @@
       "parameters": [],
       "related": [],
       "source": "Klipper",
-      "title": "This command terminates the manual probing tool",
+      "title": "Dieser Befehl beendet das manuelle Probewerkzeug",
       "url": "https://www.klipper3d.org/G-Codes.html#manual_probe_1"
     }
   ],
   "ACCEPT": [
     {
-      "brief": "This command accepts the current Z position and concludes  the manual probing tool.",
+      "brief": "Dieser Befehl übernimmt die aktuelle Z-Position und schließt das manuelle Probewerkzeug ab.",
       "codes": [
         "ACCEPT"
       ],
@@ -27,7 +27,7 @@
       "parameters": [],
       "related": [],
       "source": "Klipper",
-      "title": "This command accepts the current Z position and concludes  the manual probing tool",
+      "title": "Dieser Befehl übernimmt die aktuelle Z-Position und schließt das manuelle Probewerkzeug ab",
       "url": "https://www.klipper3d.org/G-Codes.html#manual_probe_1"
     }
   ],
